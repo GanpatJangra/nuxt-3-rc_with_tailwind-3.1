@@ -380,12 +380,6 @@ module.exports = {
         }),
         backgroundImage: {
             none: 'none',
-            solar: "url(@/assets/images/bg/v0032.jpg)",
-            solarsystem: "url(@/assets/images/bg/Universe030720009.jpg)",
-            moon: "url(@/assets/images/animals/Weather-Moon.svg)",
-            elephant: "url(@/assets/images/animals/Space_Animal_7.svg)",
-            tiger: "url(@/assets/images/animals/Space_Animal_2.svg)",
-            animal: "url(@/assets/images/animals/Space_Animal_5.svg)",
             'gradient-to-t': 'linear-gradient(to top, var(--tw-gradient-stops))',
             'gradient-to-tr': 'linear-gradient(to top right, var(--tw-gradient-stops))',
             'gradient-to-r': 'linear-gradient(to right, var(--tw-gradient-stops))',
